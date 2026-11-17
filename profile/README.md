@@ -11,6 +11,7 @@
   <a href="https://levyflight.uk"><img src="https://levyflight.uk/badges/website.png" alt="Website: levyflight.uk" height="28"></a>
   <a href="https://levyflightstudio.itch.io"><img src="https://levyflight.uk/badges/itch.png" alt="itch.io: levyflightstudio" height="28"></a>
   <a href="https://x.com/levyflight_hq"><img src="https://levyflight.uk/badges/x.png" alt="X: @levyflight_hq" height="28"></a>
+  <a href="https://bsky.app/profile/levyflight.uk"><img src="https://levyflight.uk/badges/bluesky.png" alt="Bluesky: @levyflight.uk" height="28"></a>
   <a href="https://www.instagram.com/levyflightstudio/"><img src="https://levyflight.uk/badges/instagram.png" alt="Instagram: @levyflightstudio" height="28"></a>
   <a href="mailto:contact@levyflight.uk"><img src="https://levyflight.uk/badges/email.png" alt="Contact: contact@levyflight.uk" height="28"></a>
 </p>
